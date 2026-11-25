@@ -1,0 +1,295 @@
+{
+  "name": "Local Ember reusable stock catalog (preview copies)",
+  "note": "Most images are copies of the Local Ember fleet catalog (licensed iStock, purchased by John Owens and stored at tools/bd-generator/assets/stock/Catalog/). Images are resized to 1600x1067 (3:2) and compressed as WebP for these preview pages. One kinesiology-taping image was added from Pexels because the fleet catalog had no taping photo. back-pain.webp is used on both /back-pain/ and /low-back-pain/ (no separate low-back catalog file). Do not use these as live-site originals; keep the fleet catalog as the source of record for licensed iStock files.",
+  "images": [
+    {
+      "file": "pediatric.webp",
+      "path": "assets/stock/pediatric.webp",
+      "width": 1600,
+      "height": 1067,
+      "alt": "Clinician using a gentle two-handed hold on an infant lying on a treatment table during pediatric chiropractic care.",
+      "used_on": [
+        "chiropractic-care-kids"
+      ],
+      "source": "Local Ember fleet catalog, Catalog/Services/pediatric.webp",
+      "license": "iStock, purchased by John Owens for Local Ember client use",
+      "original_size": "2400x1600"
+    },
+    {
+      "file": "chiropractic.webp",
+      "path": "assets/stock/chiropractic.webp",
+      "width": 1600,
+      "height": 1067,
+      "alt": "Chiropractor's hands applying a specific adjustment to a patient's mid-back on a treatment table.",
+      "used_on": [
+        "chiropractic-necessary"
+      ],
+      "source": "Local Ember fleet catalog, Catalog/Services/chiropractic.webp",
+      "license": "iStock, purchased by John Owens for Local Ember client use",
+      "original_size": "2400x1600"
+    },
+    {
+      "file": "pregnancy-chiropractic.webp",
+      "path": "assets/stock/pregnancy-chiropractic.webp",
+      "width": 1600,
+      "height": 1067,
+      "alt": "Pregnant woman sitting on a sofa with her hands resting on her belly.",
+      "used_on": [
+        "pregnancy"
+      ],
+      "source": "Local Ember fleet catalog, Catalog/Services/Pregnancy Chiropractic.webp",
+      "license": "iStock, purchased by John Owens for Local Ember client use",
+      "original_size": "2400x1600"
+    },
+    {
+      "file": "physical-rehabilitation.webp",
+      "path": "assets/stock/physical-rehabilitation.webp",
+      "width": 1600,
+      "height": 1067,
+      "alt": "Clinician guiding a patient's shoulder and arm through a mobility exercise during corrective therapy.",
+      "used_on": [
+        "corrective-therapy-copperas-cove-tx"
+      ],
+      "source": "Local Ember fleet catalog, Catalog/Services/Physical Rehabilitation.webp",
+      "license": "iStock, purchased by John Owens for Local Ember client use",
+      "original_size": "2400x1600"
+    },
+    {
+      "file": "wellness.webp",
+      "path": "assets/stock/wellness.webp",
+      "width": 1600,
+      "height": 1067,
+      "alt": "Family stretching together outdoors by a lake.",
+      "used_on": [
+        "wellness-care"
+      ],
+      "source": "Local Ember fleet catalog, Catalog/Services/wellness.webp",
+      "license": "iStock, purchased by John Owens for Local Ember client use",
+      "original_size": "2400x1600"
+    },
+    {
+      "file": "types-of-care.webp",
+      "path": "assets/stock/types-of-care.webp",
+      "width": 1600,
+      "height": 1067,
+      "alt": "Chiropractor talking with a patient seated on a treatment table during a consultation.",
+      "used_on": [
+        "pain-management"
+      ],
+      "source": "Local Ember fleet catalog, Catalog/Services/types-of-care.webp",
+      "license": "iStock, purchased by John Owens for Local Ember client use",
+      "original_size": "2400x1600"
+    },
+    {
+      "file": "sports-injury.webp",
+      "path": "assets/stock/sports-injury.webp",
+      "width": 1600,
+      "height": 1067,
+      "alt": "Tennis player holding her elbow in discomfort on a clay court.",
+      "used_on": [
+        "sports-injury"
+      ],
+      "source": "Local Ember fleet catalog, Catalog/Conditions/Sport Injury.webp",
+      "license": "iStock, purchased by John Owens for Local Ember client use",
+      "original_size": "2400x1600"
+    },
+    {
+      "file": "neck-pain.webp",
+      "path": "assets/stock/neck-pain.webp",
+      "width": 1600,
+      "height": 1067,
+      "alt": "Man at a desk holding the back of his neck while looking at a computer.",
+      "used_on": [
+        "management-of-pain",
+        "neck-pain"
+      ],
+      "source": "Local Ember fleet catalog, Catalog/Conditions/neck-pain.webp",
+      "license": "iStock, purchased by John Owens for Local Ember client use",
+      "original_size": "2400x1600"
+    },
+    {
+      "file": "kinesiology-taping.webp",
+      "path": "assets/stock/kinesiology-taping.webp",
+      "width": 1600,
+      "height": 1067,
+      "alt": "Clinician applying strips of kinesiology tape across a patient's shoulder.",
+      "used_on": [
+        "kinesio-taping"
+      ],
+      "source": "Pexels photo 6076123 by Antoni Shkraba, https://www.pexels.com/photo/6076123/",
+      "license": "Pexels License (free for commercial use)",
+      "original_size": "4000x6000, cropped to 3:2",
+      "note": "Fleet catalog had no kinesiology-taping image. Cropped to 3:2 to match the catalog aspect."
+    },
+    {
+      "file": "headaches.webp",
+      "path": "assets/stock/headaches.webp",
+      "width": 1600,
+      "height": 1067,
+      "alt": "Woman sitting on a sofa holding both temples with her eyes closed.",
+      "used_on": [
+        "headaches-migraines"
+      ],
+      "source": "Local Ember fleet catalog, Catalog/Conditions/headaches.webp",
+      "license": "iStock, purchased by John Owens for Local Ember client use",
+      "original_size": "2400x1600"
+    },
+    {
+      "file": "back-pain.webp",
+      "path": "assets/stock/back-pain.webp",
+      "width": 1600,
+      "height": 1067,
+      "alt": "Woman at a desk holding her lower back while working at a computer.",
+      "used_on": [
+        "back-pain",
+        "low-back-pain"
+      ],
+      "source": "Local Ember fleet catalog, Catalog/Conditions/back-pain.webp",
+      "license": "iStock, purchased by John Owens for Local Ember client use",
+      "original_size": "2400x1600"
+    },
+    {
+      "file": "sciatica.webp",
+      "path": "assets/stock/sciatica.webp",
+      "width": 1600,
+      "height": 1067,
+      "alt": "Woman standing at a desk, leaning forward and holding her lower back.",
+      "used_on": [
+        "sciatica"
+      ],
+      "source": "Local Ember fleet catalog, Catalog/Conditions/sciatica.webp",
+      "license": "iStock, purchased by John Owens for Local Ember client use",
+      "original_size": "2400x1600"
+    },
+    {
+      "file": "scoliosis.webp",
+      "path": "assets/stock/scoliosis.webp",
+      "width": 1600,
+      "height": 1067,
+      "alt": "Clinician examining a patient's back, with a spine illustration overlaid on the torso.",
+      "used_on": [
+        "scoliosis"
+      ],
+      "source": "Local Ember fleet catalog, Catalog/Conditions/scoliosis.webp",
+      "license": "iStock, purchased by John Owens for Local Ember client use",
+      "original_size": "2400x1600"
+    },
+    {
+      "file": "disc-injury.webp",
+      "path": "assets/stock/disc-injury.webp",
+      "width": 1600,
+      "height": 1067,
+      "alt": "Man in a maroon shirt standing beside a sofa, holding his lower back with both hands.",
+      "used_on": [
+        "disc-injury"
+      ],
+      "source": "Local Ember fleet catalog, Catalog/Conditions/disc-injury.webp",
+      "license": "iStock, purchased by John Owens for Local Ember client use",
+      "original_size": "2400x1600"
+    },
+    {
+      "file": "whiplash.webp",
+      "path": "assets/stock/whiplash.webp",
+      "width": 1600,
+      "height": 1067,
+      "alt": "Man kneeling between two cars after a collision, holding the back of his neck.",
+      "used_on": [
+        "whiplash"
+      ],
+      "source": "Local Ember fleet catalog, Catalog/Conditions/whiplash.webp",
+      "license": "iStock, purchased by John Owens for Local Ember client use",
+      "original_size": "2400x1600"
+    },
+    {
+      "file": "work-injury.webp",
+      "path": "assets/stock/work-injury.webp",
+      "width": 1600,
+      "height": 1067,
+      "alt": "Warehouse worker in a safety vest holding his lower back while standing next to a crate.",
+      "used_on": [
+        "work-injury"
+      ],
+      "source": "Local Ember fleet catalog, Catalog/Conditions/work-injury.webp",
+      "license": "iStock, purchased by John Owens for Local Ember client use",
+      "original_size": "2400x1600"
+    },
+    {
+      "file": "extremity-pain.webp",
+      "path": "assets/stock/extremity-pain.webp",
+      "width": 1600,
+      "height": 1067,
+      "alt": "Man standing indoors holding his forearm with the other hand.",
+      "used_on": [
+        "arm-leg-pain"
+      ],
+      "source": "Local Ember fleet catalog, Catalog/Conditions/extremity-pain.webp",
+      "license": "iStock, purchased by John Owens for Local Ember client use",
+      "original_size": "2400x1600"
+    },
+    {
+      "file": "carpal-tunnel.webp",
+      "path": "assets/stock/carpal-tunnel.webp",
+      "width": 1600,
+      "height": 1067,
+      "alt": "Person at a desk holding one wrist with the other hand beside a laptop.",
+      "used_on": [
+        "carpal-tunnel"
+      ],
+      "source": "Local Ember fleet catalog, Catalog/Conditions/carpal-tunnel.webp",
+      "license": "iStock, purchased by John Owens for Local Ember client use",
+      "original_size": "2400x1600"
+    },
+    {
+      "file": "knee-pain.webp",
+      "path": "assets/stock/knee-pain.webp",
+      "width": 1600,
+      "height": 1067,
+      "alt": "Runner on a walkway leaning forward and holding one knee.",
+      "used_on": [
+        "knee-pain"
+      ],
+      "source": "Local Ember fleet catalog, Catalog/Conditions/Knee Pain.webp",
+      "license": "iStock, purchased by John Owens for Local Ember client use",
+      "original_size": "2400x1600"
+    },
+    {
+      "file": "shoulder-pain.webp",
+      "path": "assets/stock/shoulder-pain.webp",
+      "width": 1600,
+      "height": 1067,
+      "alt": "Woman indoors holding a blue ice pack against her shoulder.",
+      "used_on": [
+        "shoulder-pain"
+      ],
+      "source": "Local Ember fleet catalog, Catalog/Conditions/shoulder-pain.webp",
+      "license": "iStock, purchased by John Owens for Local Ember client use",
+      "original_size": "2400x1600"
+    },
+    {
+      "file": "vertigo.webp",
+      "path": "assets/stock/vertigo.webp",
+      "width": 1600,
+      "height": 1067,
+      "alt": "Woman holding her head and steadying herself, with the room appearing to spin.",
+      "used_on": [
+        "vertigo"
+      ],
+      "source": "Local Ember fleet catalog, Catalog/Conditions/vertigo.webp",
+      "license": "iStock, purchased by John Owens for Local Ember client use",
+      "original_size": "2400x1600"
+    },
+    {
+      "file": "auto-accident.webp",
+      "path": "assets/stock/auto-accident.webp",
+      "width": 1600,
+      "height": 1067,
+      "alt": "Driver in a car holding the side of her neck in discomfort.",
+      "used_on": [
+        "car-accident"
+      ],
+      "source": "Local Ember fleet catalog, Catalog/Services/Auto Accident Care.webp",
+      "license": "iStock, purchased by John Owens for Local Ember client use",
+      "original_size": "2400x1600"
+    }
+  ]
+}
